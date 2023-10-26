@@ -1,0 +1,33 @@
+_repo: Rogues-and-Vagabonds_71848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacKenzie, Compton
+    aliases:
+    - Mackenzie, Anthony Edward Montagu Compton
+    - Mackenzie, Compton, Sir
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '5658'
+    url: http://www.gutenberg.org/2009/agents/5658
+    wikipedia: https://en.wikipedia.org/wiki/Compton_Mackenzie
+description: ''
+gutenberg_issued: '2023-10-10'
+identifiers:
+  gutenberg: '71848'
+language: en
+pgterms:marc904: https://archive.org/details/B-001-014-522/page/n7/mode/2up
+pgterms:marc905: 20221204040832mackenzie
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Steve Mattern, Quentin Campbell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bGeorge H. Doran Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rogues and Vagabonds
+url: http://www.gutenberg.org/ebooks/71848
